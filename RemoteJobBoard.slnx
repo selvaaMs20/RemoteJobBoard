@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RemoteJobBoard.API/RemoteJobBoard.API.csproj" />
+  <Project Path="RemoteJobBoard.Application/RemoteJobBoard.Application.csproj" />
+  <Project Path="RemoteJobBoard.Core/RemoteJobBoard.Core.csproj" />
+  <Project Path="RemoteJobBoard.Infrastructure/RemoteJobBoard.Infrastructure.csproj" />
+</Solution>

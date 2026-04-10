@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5411D14-5A75-68B5-27CA-304844DA401B}|RemoteJobBoard.Infrastructure\\RemoteJobBoard.Infrastructure.csproj|c:\\users\\akide\\onedrive\\desktop\\ms\\remotejobboard\\remotejobboard.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5411D14-5A75-68B5-27CA-304844DA401B}|RemoteJobBoard.Infrastructure\\RemoteJobBoard.Infrastructure.csproj|solutionrelative:remotejobboard.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1AA4A3-54FB-754D-8E1E-41607BCDDDDB}|RemoteJobBoard.Core\\RemoteJobBoard.Core.csproj|c:\\users\\akide\\onedrive\\desktop\\ms\\remotejobboard\\remotejobboard.core\\entities\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1AA4A3-54FB-754D-8E1E-41607BCDDDDB}|RemoteJobBoard.Core\\RemoteJobBoard.Core.csproj|solutionrelative:remotejobboard.core\\entities\\jobpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1AA4A3-54FB-754D-8E1E-41607BCDDDDB}|RemoteJobBoard.Core\\RemoteJobBoard.Core.csproj|c:\\users\\akide\\onedrive\\desktop\\ms\\remotejobboard\\remotejobboard.core\\entities\\jobseekerskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1AA4A3-54FB-754D-8E1E-41607BCDDDDB}|RemoteJobBoard.Core\\RemoteJobBoard.Core.csproj|solutionrelative:remotejobboard.core\\entities\\jobseekerskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1AA4A3-54FB-754D-8E1E-41607BCDDDDB}|RemoteJobBoard.Core\\RemoteJobBoard.Core.csproj|c:\\users\\akide\\onedrive\\desktop\\ms\\remotejobboard\\remotejobboard.core\\entities\\jobseekerprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1AA4A3-54FB-754D-8E1E-41607BCDDDDB}|RemoteJobBoard.Core\\RemoteJobBoard.Core.csproj|solutionrelative:remotejobboard.core\\entities\\jobseekerprofile .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1AA4A3-54FB-754D-8E1E-41607BCDDDDB}|RemoteJobBoard.Core\\RemoteJobBoard.Core.csproj|c:\\users\\akide\\onedrive\\desktop\\ms\\remotejobboard\\remotejobboard.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1AA4A3-54FB-754D-8E1E-41607BCDDDDB}|RemoteJobBoard.Core\\RemoteJobBoard.Core.csproj|solutionrelative:remotejobboard.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5411D14-5A75-68B5-27CA-304844DA401B}|RemoteJobBoard.Infrastructure\\RemoteJobBoard.Infrastructure.csproj|c:\\users\\akide\\onedrive\\desktop\\ms\\remotejobboard\\remotejobboard.infrastructure\\migrations\\20260410115426_usertablecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5411D14-5A75-68B5-27CA-304844DA401B}|RemoteJobBoard.Infrastructure\\RemoteJobBoard.Infrastructure.csproj|solutionrelative:remotejobboard.infrastructure\\migrations\\20260410115426_usertablecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7711DCB-DECC-7D95-D75C-2C6C2C71A470}|RemoteJobBoard.API\\RemoteJobBoard.API.csproj|c:\\users\\akide\\onedrive\\desktop\\ms\\remotejobboard\\remotejobboard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7711DCB-DECC-7D95-D75C-2C6C2C71A470}|RemoteJobBoard.API\\RemoteJobBoard.API.csproj|solutionrelative:remotejobboard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobPost.cs",
+              "DocumentMoniker": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.Core\\Entities\\JobPost.cs",
+              "RelativeDocumentMoniker": "RemoteJobBoard.Core\\Entities\\JobPost.cs",
+              "ToolTip": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.Core\\Entities\\JobPost.cs",
+              "RelativeToolTip": "RemoteJobBoard.Core\\Entities\\JobPost.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T12:17:23.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobSeekerSkill.cs",
+              "DocumentMoniker": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.Core\\Entities\\JobSeekerSkill.cs",
+              "RelativeDocumentMoniker": "RemoteJobBoard.Core\\Entities\\JobSeekerSkill.cs",
+              "ToolTip": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.Core\\Entities\\JobSeekerSkill.cs",
+              "RelativeToolTip": "RemoteJobBoard.Core\\Entities\\JobSeekerSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T12:08:06.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobSeekerProfile .cs",
+              "DocumentMoniker": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.Core\\Entities\\JobSeekerProfile .cs",
+              "RelativeDocumentMoniker": "RemoteJobBoard.Core\\Entities\\JobSeekerProfile .cs",
+              "ToolTip": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.Core\\Entities\\JobSeekerProfile .cs",
+              "RelativeToolTip": "RemoteJobBoard.Core\\Entities\\JobSeekerProfile .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:58:26.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260410115426_UserTableCreate.cs",
+              "DocumentMoniker": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.Infrastructure\\Migrations\\20260410115426_UserTableCreate.cs",
+              "RelativeDocumentMoniker": "RemoteJobBoard.Infrastructure\\Migrations\\20260410115426_UserTableCreate.cs",
+              "ToolTip": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.Infrastructure\\Migrations\\20260410115426_UserTableCreate.cs",
+              "RelativeToolTip": "RemoteJobBoard.Infrastructure\\Migrations\\20260410115426_UserTableCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:54:31.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "RemoteJobBoard.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.Core\\Entities\\User.cs",
+              "RelativeToolTip": "RemoteJobBoard.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:19:10.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RemoteJobBoard.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RemoteJobBoard.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:47:04.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.API\\Program.cs",
+              "RelativeDocumentMoniker": "RemoteJobBoard.API\\Program.cs",
+              "ToolTip": "C:\\Users\\akide\\OneDrive\\Desktop\\MS\\RemoteJobBoard\\RemoteJobBoard.API\\Program.cs",
+              "RelativeToolTip": "RemoteJobBoard.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:40:40.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

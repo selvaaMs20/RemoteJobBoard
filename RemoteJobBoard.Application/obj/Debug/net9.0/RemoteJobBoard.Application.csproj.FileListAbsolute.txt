@@ -1,0 +1,15 @@
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\bin\Debug\net9.0\RemoteJobBoard.Application.deps.json
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\bin\Debug\net9.0\RemoteJobBoard.Application.dll
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\bin\Debug\net9.0\RemoteJobBoard.Application.pdb
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\bin\Debug\net9.0\RemoteJobBoard.Core.dll
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\bin\Debug\net9.0\RemoteJobBoard.Core.pdb
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\obj\Debug\net9.0\RemoteJobBoard.Application.csproj.AssemblyReference.cache
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\obj\Debug\net9.0\RemoteJobBoard.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\obj\Debug\net9.0\RemoteJobBoard.Application.AssemblyInfoInputs.cache
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\obj\Debug\net9.0\RemoteJobBoard.Application.AssemblyInfo.cs
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\obj\Debug\net9.0\RemoteJobBoard.Application.csproj.CoreCompileInputs.cache
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\obj\Debug\net9.0\RemoteJo.DE12D45E.Up2Date
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\obj\Debug\net9.0\RemoteJobBoard.Application.dll
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\obj\Debug\net9.0\refint\RemoteJobBoard.Application.dll
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\obj\Debug\net9.0\RemoteJobBoard.Application.pdb
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Application\obj\Debug\net9.0\ref\RemoteJobBoard.Application.dll
