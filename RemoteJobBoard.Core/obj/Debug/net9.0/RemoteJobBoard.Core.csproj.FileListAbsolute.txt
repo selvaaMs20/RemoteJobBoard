@@ -5,6 +5,7 @@ C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\obj\Debug\
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\obj\Debug\net9.0\RemoteJobBoard.Core.AssemblyInfoInputs.cache
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\obj\Debug\net9.0\RemoteJobBoard.Core.AssemblyInfo.cs
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\obj\Debug\net9.0\RemoteJobBoard.Core.csproj.CoreCompileInputs.cache
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\obj\Debug\net9.0\RemoteJobBoard.Core.sourcelink.json
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\obj\Debug\net9.0\RemoteJobBoard.Core.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\obj\Debug\net9.0\refint\RemoteJobBoard.Core.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\obj\Debug\net9.0\RemoteJobBoard.Core.pdb

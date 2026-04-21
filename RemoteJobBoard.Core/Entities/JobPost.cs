@@ -20,9 +20,9 @@ namespace RemoteJobBoard.Core.Entities
         public DateTime? ExpiresAt { get; set; }
 
         // Navigation
-        //public Company Company { get; set; } = null!;
+        public Company Company { get; set; } = null!;
         public ICollection<JobPostSkill> RequiredSkills { get; set; } = new List<JobPostSkill>();
-        //public ICollection<Application> Applications { get; set; } = new List<Application>();
-        //public ICollection<SavedJob> SavedByUsers { get; set; } = new List<SavedJob>();
+        public ICollection<Application> Applications { get; set; } = new List<Application>();
+        public ICollection<SavedJob> SavedByUsers { get; set; } = new List<SavedJob>();
     }
 }

@@ -14,6 +14,12 @@ public class AppDbContext : DbContext
     public DbSet<Skill> Skills => Set<Skill>();
     public DbSet<JobPostSkill> JobPostSkills => Set<JobPostSkill>();
     public DbSet<JobPost> JobPosts => Set<JobPost>();
+    public DbSet<Application> Applications => Set<Application>();
+    public DbSet<SavedJob> SavedJobs => Set<SavedJob>();
+    public DbSet<Company> Companies => Set<Company>();
+    public DbSet<ChatMessage> Messages => Set<ChatMessage>();
+    public DbSet<Notification> Notifications => Set<Notification>();
+    public DbSet<CompanyReview> CompanyReviews => Set<CompanyReview>();
 
 
 
@@ -38,6 +44,29 @@ public class AppDbContext : DbContext
             .HasColumnType("decimal(18,2)");
 
         modelBuilder.Entity<JobPost>()
-            .Property(j => j.SalaryMax);
+            .Property(j => j.SalaryMax)
+            .HasColumnType("decimal(18,2)");
+
+        modelBuilder.Entity<ChatMessage>()
+             .HasOne(m => m.Sender)
+             .WithMany()
+             .HasForeignKey(m => m.SenderId)
+             .OnDelete(DeleteBehavior.NoAction); // IMPORTANT
+
+        modelBuilder.Entity<ChatMessage>()
+            .HasOne(m => m.Receiver)
+            .WithMany()
+            .HasForeignKey(m => m.ReceiverId)
+            .OnDelete(DeleteBehavior.NoAction); // IMPORTANT
+
+        modelBuilder.Entity<ChatMessage>()
+            .HasOne(m => m.Application)
+            .WithMany()
+            .HasForeignKey(m => m.ApplicationId)
+            .OnDelete(DeleteBehavior.Cascade); // this is fine
+
+        //modelBuilder.Entity<Company>()
+        //   .HasIndex(c => c.Name)
+        //   .IsUnique();
     }
 }

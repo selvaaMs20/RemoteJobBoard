@@ -9,6 +9,7 @@ C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Infrastructure\
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Infrastructure\obj\Debug\net9.0\RemoteJobBoard.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Infrastructure\obj\Debug\net9.0\RemoteJobBoard.Infrastructure.AssemblyInfo.cs
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Infrastructure\obj\Debug\net9.0\RemoteJobBoard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Infrastructure\obj\Debug\net9.0\RemoteJobBoard.Infrastructure.sourcelink.json
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Infrastructure\obj\Debug\net9.0\RemoteJo.0D9F1745.Up2Date
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Infrastructure\obj\Debug\net9.0\RemoteJobBoard.Infrastructure.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Infrastructure\obj\Debug\net9.0\refint\RemoteJobBoard.Infrastructure.dll

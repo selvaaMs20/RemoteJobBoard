@@ -18,5 +18,7 @@ public class JobSeekerProfile : BaseEntity
     // Navigation
     public User User { get; set; } = null!;
     public ICollection<JobSeekerSkill> Skills { get; set; } = new List<JobSeekerSkill>();
+    public ICollection<Application> Applications { get; set; } = new List<Application>();
+
 
 }

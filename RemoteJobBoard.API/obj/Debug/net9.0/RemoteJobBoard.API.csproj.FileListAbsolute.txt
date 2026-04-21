@@ -13,7 +13,6 @@ C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\n
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Humanizer.dll
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
@@ -28,11 +27,7 @@ C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\n
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
@@ -45,6 +40,9 @@ C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\n
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\System.ClientModel.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\System.CodeDom.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
@@ -53,7 +51,6 @@ C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\n
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\System.Composition.Runtime.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\System.Drawing.Common.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\bin\Debug\net9.0\System.Memory.Data.dll
@@ -152,6 +149,7 @@ C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\n
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net9.0\RemoteJobBoard.API.csproj.CoreCompileInputs.cache
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net9.0\RemoteJobBoard.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net9.0\RemoteJobBoard.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net9.0\RemoteJobBoard.API.sourcelink.json
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -166,4 +164,4 @@ C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\n
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net9.0\RemoteJobBoard.API.pdb
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net9.0\RemoteJobBoard.API.genruntimeconfig.cache
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net9.0\ref\RemoteJobBoard.API.dll
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
