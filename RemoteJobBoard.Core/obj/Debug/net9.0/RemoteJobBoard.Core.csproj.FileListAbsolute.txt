@@ -1,6 +1,7 @@
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\bin\Debug\net9.0\RemoteJobBoard.Core.deps.json
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\bin\Debug\net9.0\RemoteJobBoard.Core.dll
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\bin\Debug\net9.0\RemoteJobBoard.Core.pdb
+C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\obj\Debug\net9.0\RemoteJobBoard.Core.csproj.AssemblyReference.cache
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\obj\Debug\net9.0\RemoteJobBoard.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\obj\Debug\net9.0\RemoteJobBoard.Core.AssemblyInfoInputs.cache
 C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.Core\obj\Debug\net9.0\RemoteJobBoard.Core.AssemblyInfo.cs

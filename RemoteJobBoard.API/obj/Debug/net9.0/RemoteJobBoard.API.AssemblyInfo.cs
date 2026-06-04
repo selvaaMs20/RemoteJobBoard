@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemoteJobBoard.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcc2f50bbd3c69ab1b892eee87211f75051e51b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32f89d8cf0c42d30c5e3aa4f77fda0a0c82d7652")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemoteJobBoard.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemoteJobBoard.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
