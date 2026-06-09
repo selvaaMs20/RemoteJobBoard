@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using RemoteJobBoard.Application.DTOs.JobPost;
 using RemoteJobBoard.Core.Entities;
 using RemoteJobBoard.Core.Exceptions;
+using RemoteJobBoard.Core.Interfaces;
 using RemoteJobBoard.Infrastructure.Data;
 
 namespace RemoteJobBoard.Application.Features.JobPosts.Commands.CreateJobPost;
@@ -13,11 +14,13 @@ public class CreateJobPostHandler : IRequestHandler<CreateJobPostCommand, JobPos
 {
     private readonly AppDbContext _context;
     private readonly IMapper _mapper;
+    private readonly ICacheService _cache;
 
-    public CreateJobPostHandler(AppDbContext context, IMapper mapper)
+    public CreateJobPostHandler(AppDbContext context, IMapper mapper, ICacheService cache)
     {
         _context = context;
         _mapper = mapper;
+        _cache = cache;
     }
 
     public async Task<JobPostDto> Handle(
@@ -55,6 +58,9 @@ public class CreateJobPostHandler : IRequestHandler<CreateJobPostCommand, JobPos
 
         _context.JobPosts.Add(jobPost);
         await _context.SaveChangesAsync(cancellationToken);
+
+        // Invalidate job feed cache so new job appears immediately
+        await _cache.RemoveAsync("jobposts:page:1:size:10");
 
         var created = await _context.JobPosts
             .Include(j => j.Company)

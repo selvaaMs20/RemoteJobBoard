@@ -1,0 +1,46 @@
+﻿// Auth/Commands/Login/LoginHandler.cs
+using MediatR;
+using Microsoft.EntityFrameworkCore;
+using RemoteJobBoard.Application.DTOs.Auth;
+using RemoteJobBoard.Core.Exceptions;
+using RemoteJobBoard.Core.Interfaces;
+using RemoteJobBoard.Infrastructure.Data;
+
+namespace RemoteJobBoard.Application.Features.Auth.Commands.Login;
+
+public class LoginHandler : IRequestHandler<LoginCommand, AuthResponseDto>
+{
+    private readonly AppDbContext _context;
+    private readonly IJwtService _jwtService;
+
+    public LoginHandler(AppDbContext context, IJwtService jwtService)
+    {
+        _context = context;
+        _jwtService = jwtService;
+    }
+
+    public async Task<AuthResponseDto> Handle(
+        LoginCommand request,
+        CancellationToken cancellationToken)
+    {
+        var user = await _context.Users
+            .FirstOrDefaultAsync(u => u.Email == request.Email, cancellationToken);
+
+        if (user is null || !BCrypt.Net.BCrypt.Verify(request.Password, user.PasswordHash))
+            throw new UnauthorizedException("Invalid email or password.");
+
+        user.RefreshToken = _jwtService.GenerateRefreshToken();
+        user.RefreshTokenExpiry = DateTime.UtcNow.AddDays(7);
+
+        await _context.SaveChangesAsync(cancellationToken);
+
+        return new AuthResponseDto
+        {
+            AccessToken = _jwtService.GenerateAccessToken(user),
+            RefreshToken = user.RefreshToken!,
+            Name = user.Name,
+            Email = user.Email,
+            Role = user.Role.ToString()
+        };
+    }
+}

@@ -4,5 +4,13 @@ using RemoteJobBoard.Application.DTOs.JobPost;
 
 namespace RemoteJobBoard.Application.Features.JobPosts.Queries.GetAllJobPosts;
 
-public record GetAllJobPostsQuery(int PageNumber = 1, int PageSize = 10)
-    : IRequest<PagedResultDto<JobPostDto>>;
+public record GetAllJobPostsQuery(
+    int PageNumber = 1,
+    int PageSize = 10,
+    string? Search = null,
+    string? WorkMode = null,
+    string? JobType = null,
+    string? ExperienceLevel = null,
+    decimal? MinSalary = null,
+    decimal? MaxSalary = null
+) : IRequest<PagedResultDto<JobPostDto>>;

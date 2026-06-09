@@ -1,6 +1,7 @@
 ﻿// AppDbContext.cs
 using Microsoft.EntityFrameworkCore;
 using RemoteJobBoard.Core.Entities;
+using RemoteJobBoard.Infrastructure.Migrations;
 
 namespace RemoteJobBoard.Infrastructure.Data;
 
@@ -65,8 +66,12 @@ public class AppDbContext : DbContext
             .HasForeignKey(m => m.ApplicationId)
             .OnDelete(DeleteBehavior.Cascade); // this is fine
 
-        //modelBuilder.Entity<Company>()
-        //   .HasIndex(c => c.Name)
-        //   .IsUnique();
+
+        modelBuilder.Entity<Company>()
+            .HasOne(c => c.Owner)
+            .WithMany()                        // or WithMany(u => u.Companies)
+            .HasForeignKey(c => c.OwnerId)
+            .OnDelete(DeleteBehavior.Restrict);
+
     }
 }

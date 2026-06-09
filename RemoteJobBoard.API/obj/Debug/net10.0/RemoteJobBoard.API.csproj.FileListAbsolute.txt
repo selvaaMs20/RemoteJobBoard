@@ -1,8 +1,0 @@
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net10.0\RemoteJobBoard.API.csproj.AssemblyReference.cache
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net10.0\RemoteJobBoard.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net10.0\RemoteJobBoard.API.AssemblyInfoInputs.cache
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net10.0\RemoteJobBoard.API.AssemblyInfo.cs
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net10.0\RemoteJobBoard.API.csproj.CoreCompileInputs.cache
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net10.0\RemoteJobBoard.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\akide\OneDrive\Desktop\MS\RemoteJobBoard\RemoteJobBoard.API\obj\Debug\net10.0\RemoteJobBoard.API.MvcApplicationPartsAssemblyInfo.cache

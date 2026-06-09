@@ -20,6 +20,10 @@ namespace RemoteJobBoard.Core.Entities
         public JobSeekerProfile? JobSeekerProfile { get; set; }
         public ICollection<Company> OwnedCompanies { get; set; } = new List<Company>();
         public ICollection<SavedJob> SavedJobs { get; set; } = new List<SavedJob>();
+
+        public string? RefreshToken { get; set; }
+        public DateTime? RefreshTokenExpiry { get; set; }
+
         //public ICollection<CompanyReview> Reviews { get; set; } = new List<CompanyReview>();
         //public ICollection<Notification> Notifications { get; set; } = new List<Notification>();
     }
