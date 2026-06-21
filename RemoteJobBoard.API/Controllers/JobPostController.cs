@@ -36,6 +36,7 @@ public class JobPostController : ControllerBase
             pageNumber, pageSize, search,
             workMode, jobType, experienceLevel,
             minSalary, maxSalary));
+       
         return Ok(result);
     }
 

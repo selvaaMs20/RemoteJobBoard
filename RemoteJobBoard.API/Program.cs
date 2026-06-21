@@ -28,12 +28,15 @@ configuration.ReadFrom.Configuration(context.Configuration)
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Redis
-builder.Services.AddStackExchangeRedisCache(options =>
-{
-    options.Configuration = builder.Configuration
-        .GetConnectionString("Redis");
-});
+builder.Services.AddDistributedMemoryCache();
+
+//// Redis
+//builder.Services.AddStackExchangeRedisCache(options =>
+//{
+//    options.Configuration = builder.Configuration
+//        .GetConnectionString("Redis");
+//});
+
 
 // JWT Settings
 var jwtSettings = builder.Configuration

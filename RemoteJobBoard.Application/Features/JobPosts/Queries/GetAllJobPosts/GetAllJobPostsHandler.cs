@@ -58,7 +58,7 @@ public class GetAllJobPostsHandler
                 .ThenInclude(s => s.Skill)
             .Where(j => j.IsActive)
             .AsQueryable();
-
+        
         // Apply filters
         if (!string.IsNullOrWhiteSpace(request.Search))
         {
@@ -122,9 +122,12 @@ public class GetAllJobPostsHandler
         // Cache only default unfiltered queries
         if (isDefaultQuery)
         {
+            Console.WriteLine("Hello from JobPost handler");
             await _cache.SetAsync(cacheKey, result, TimeSpan.FromMinutes(5));
+
         }
 
+        
         return result;
     }
 }
